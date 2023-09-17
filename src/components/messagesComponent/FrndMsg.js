@@ -14,7 +14,7 @@ const FrndMsg = () => {
            <p className='con-title'>{props.name}</p>
             <p className='con-lastMessage'>{props.message}</p>
            </div>
-           <P>this is frim frnd msg</P>
+          
         </div>
       
     </div>
