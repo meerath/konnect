@@ -1,0 +1,16 @@
+.createGroup-conatiner{
+    flex: 0.7;
+    align-self: center;
+    padding: 10px 10px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.search-box{
+    outline-width: 0;
+    border:none;
+    margin-left: 5px;
+    font-size: 1.1rem;
+}

@@ -25,6 +25,10 @@ flex: 1;
     border-radius: 18px;
     flex: 1;
     margin: 10px;
+    overflow: scroll;
+}
+.msg-container::-webkit-scrollbar{
+    display: n;
 }
 .msg-input{
     background-color: yellow;

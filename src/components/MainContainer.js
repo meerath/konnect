@@ -9,6 +9,7 @@ const MainContainer = () => {
     <div className='mainContainer'>
         <Sidebar/>
         <ChatArea/>
+
        
     </div>
   )

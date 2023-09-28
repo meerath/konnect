@@ -24,6 +24,15 @@ const ChatArea = ({props}) => {
         <div className='msg-container'>
             <FrndMsg/>
             <SelfMsg/>
+            <FrndMsg/>
+            <SelfMsg/>
+            <FrndMsg/>
+            <SelfMsg/>
+            <FrndMsg/>
+            <SelfMsg/> <FrndMsg/>
+            <SelfMsg/>
+            <FrndMsg/>
+            <SelfMsg/>
         </div>
         <div className='msg-input'>
             <input placeholder='Enter the message' className='search-box'/>

@@ -20,5 +20,4 @@ const FrndMsg = () => {
     </div>
   )
 }
-
 export default FrndMsg
