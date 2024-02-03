@@ -1,0 +1,26 @@
+.login-container{
+    height: 90vh;
+    width: 80vw;
+    background-color: #f4f8f9;
+    border-radius: 20px;
+    display: flex;
+    box-shadow: rgb(197, 188, 188) 0px 7px 29px 0px;
+
+}
+.img-container{
+    flex: 0.3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-box{
+    flex: 0.7;
+    background-color: white;
+    border-radius: 20px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}

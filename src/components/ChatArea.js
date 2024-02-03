@@ -27,6 +27,8 @@ const ChatArea = ({props}) => {
             <FrndMsg/>
             <SelfMsg/>
             <FrndMsg/>
+            <FrndMsg/>
+            <FrndMsg/>
             <SelfMsg/>
             <FrndMsg/>
             <SelfMsg/> <FrndMsg/>
